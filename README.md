@@ -5,6 +5,7 @@
 * [**General Information**](#general-information)
 * [**Technologies Used**](#technologies-used)
 * [**Features**](#features)
+* [**How "Watykanczyk" works?**](how-"watykanczyk"-works)
 * [**Getting Started**](#getting-started)
 * [*Windows system*](#windows-system)
 * [*Linux system*](#linux-system)
@@ -28,6 +29,10 @@
 - Invokes a command to turn off the computer when the music ends.
 - Opens 20 new tabs in the browser.
 - Opens https://www.windows93.net/ in full screen.
+
+## How "Watykanczyk" works?
+
+[![video_usage](https://img.youtube.com/vi/QCrhk8v3vw0/0.jpg)](https://www.youtube.com/watch?v=QCrhk8v3vw0)
 
 ## Getting Started
 Here are all the steps to install "Watykanczyk" on your board and run it.
@@ -172,10 +177,6 @@ sudo dnf install libusb
 
 ## Usage
 Stick the board into any Windows computer and wait for the magic to happen.
-
-## How "Watykanczyk" works?
-
-[![video_usage](https://img.youtube.com/vi/QCrhk8v3vw0/0.jpg)](https://www.youtube.com/watch?v=QCrhk8v3vw0)
 
 ### Warning!
 The script may not work properly if:
