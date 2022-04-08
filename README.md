@@ -86,8 +86,10 @@ Here I will describe all the steps to test your board and upload my script.
 Here are all the steps you need to follow before installing the script on the board.
 1. To begin, you need to download the [Arduino IDE](https://www.arduino.cc/en/software). Choose 32 or 64 bit version depending on your machine. You can do this using the manufacturer's official website.
 2. Now you need to extract the archive and run the terminal in the folder where the installation files are located.
-3. Now type the command `sudo ./install.sh` and wait for the program to install.
-
+3. Now execute the command shown below and wait for the program to install.
+```sh
+sudo ./install.sh
+```
 ![Installation](./img/install_bash.png)
 
 4. If the program has been installed correctly, run it.
@@ -170,6 +172,10 @@ sudo dnf install libusb
 
 ## Usage
 Stick the board into any Windows computer and wait for the magic to happen.
+
+## How "Watykanczyk" works?
+
+[![video_usage](https://img.youtube.com/vi/QCrhk8v3vw0/0.jpg)](https://www.youtube.com/watch?v=QCrhk8v3vw0)
 
 ### Warning!
 The script may not work properly if:
